@@ -18,8 +18,8 @@ Inspect the CSVs and sketch out an [ERD](EmployeeSQL/EmployeeSQL_ERD.PNG) of the
 
 
 #### Data Analysis
-Once you have a complete database, do the following:
-[Data Analysis SQL Queries](EmployeeSQL/Data_Analysis.sql)
+Create the following [Data Analysis SQL Queries](EmployeeSQL/Data_Analysis.sql):
+
 
 1. List the following details of each employee: employee number, last name, first name, sex, and salary.
 
